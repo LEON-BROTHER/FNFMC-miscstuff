@@ -1,0 +1,47 @@
+{
+    "storyName": "MMMMBob",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "category": "bob",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "songs": [
+        [
+            "Sunshine-Bob",
+            "bob-cool", [
+                255,
+                255,
+                255
+            ]
+        ],
+        [
+            "Withered",
+            "bob-angry", [
+                255,
+                255,
+                255
+            ]
+        ],
+        [
+            "Run",
+            "bob-run", [
+                15,
+                15,
+                15
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "bob",
+        "bf",
+        "gf"
+    ],
+    "weekName": "bobweek1"
+}

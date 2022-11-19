@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Retricus",
+			"detra",
+			[
+				204,
+				204,
+				204
+			]
+		],
+		[
+			"Covetous",
+			"detra",
+			[
+				204,
+				204,
+				204
+			]
+		],
+		[
+			"Terminus",
+			"detra",
+			[
+				204,
+				204,
+				204
+			]
+		]
+	],
+	"category": "detra",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"detra",
+		"bf",
+		"gf"
+	],
+	"storyName": "Detra's Mental Decimation Part I",
+	"weekName": "detraweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

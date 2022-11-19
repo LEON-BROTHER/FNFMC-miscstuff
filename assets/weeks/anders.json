@@ -1,0 +1,47 @@
+{
+    "songs": [
+        [
+            "Pentafluoride",
+            "anders", [
+                70,
+                70,
+                81
+            ]
+        ],
+        [
+            "Diminished",
+            "anders", [
+                70,
+                70,
+                81
+            ]
+        ],
+        [
+            "Psychoneurotic",
+            "anders-fearsome", [
+                70,
+                70,
+                81
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "",
+    "weekCharacters": [
+        "",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Nothing Personal",
+    "weekName": "Anders",
+    "category": "anders",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": true,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

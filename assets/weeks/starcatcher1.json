@@ -1,0 +1,48 @@
+{
+    "storyName": "Rock Star",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "stage",
+    "category": "star",
+
+    "weekBefore": "starcatcher0",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "songs": [
+        [
+            "Bopeebo-Starcatcher",
+            "dad-star", [
+                146,
+                113,
+                253
+            ]
+        ],
+        [
+            "Fresh-Starcatcher",
+            "dad-star", [
+                146,
+                113,
+                253
+            ]
+        ],
+        [
+            "Dadbattle-Starcatcher",
+            "dad-star", [
+                146,
+                113,
+                253
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "dad",
+        "bf",
+        "gf"
+    ],
+    "weekName": "starcatcher1"
+}

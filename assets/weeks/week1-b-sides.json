@@ -1,0 +1,44 @@
+{
+	"storyName": "Daddy Dearest",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"category":"b-sides",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bopeebo-B-Sides",
+			"dad-b",
+			[
+				255,
+				152,
+				197
+			]
+		],
+		[
+			"Fresh-B-Sides",
+			"dad-b",
+			[
+				255,
+				152,
+				197
+			]
+		],
+		[
+			"Dadbattle-B-Sides",
+			"dad-b",
+			[
+				255,
+				152,
+				197
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

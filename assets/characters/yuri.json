@@ -1,0 +1,84 @@
+{
+    "animations": [{
+            "offsets": [
+                2,
+                24
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "breath",
+            "loop": false,
+            "name": "Yuri Breath"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "idle",
+            "loop": false,
+            "name": "Yuri Idle"
+        },
+        {
+            "offsets": [-8, -22],
+            "indices": [],
+            "fps": 24,
+            "anim": "singLEFT",
+            "loop": false,
+            "name": "Yuri Sing Note Left"
+        },
+        {
+            "offsets": [
+                47, -7
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singDOWN",
+            "loop": false,
+            "name": "Yuri Sing Note Down"
+        },
+        {
+            "offsets": [
+                7,
+                17
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singUP",
+            "loop": false,
+            "name": "Yuri Sing Note Up"
+        },
+        {
+            "offsets": [
+                5,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singRIGHT",
+            "loop": false,
+            "name": "Yuri Sing Note Right"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/Doki_Yuri_Assets",
+    "position": [
+        0,
+        60
+    ],
+    "healthicon": "yuri",
+    "flip_x": false,
+    "healthbar_colors": [
+        158,
+        114,
+        210
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 6.1,
+    "scale": 1
+}

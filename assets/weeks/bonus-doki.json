@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Poems-N-Thorns",
+			"duet",
+			[
+				255,
+				184,
+				227
+			]
+		],
+		[
+			"Dual-Demise",
+			"dual-demise",
+			[
+				201,
+				206,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"category": "dokidoki",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Bonus Freeplay Doki Songs LOL",
+	"weekName": "bonus-doki",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

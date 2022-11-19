@@ -1,0 +1,35 @@
+{
+	"storyName": "Spooky Month Duet B-Sides",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"category":"duet-b-sides",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez-B-Sides-Duet",
+			"spooky-b",
+			[
+				179,
+				179,
+				179
+			]
+		],
+		[
+			"South-B-Sides-Duet",
+			"spooky-b",
+			[
+				179,
+				179,
+				179
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 2 Duet B-Sides"
+}

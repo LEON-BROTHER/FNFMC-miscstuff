@@ -1,0 +1,50 @@
+{
+	"storyName": "Date Night (FT. Carol)",
+	"difficulties": "",
+	"category": "dateweek",
+	"hideFreeplay": false,
+	"weekBackground": "date",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"whitroll",
+			"carol_date",
+			[
+				60,
+				60,
+				120
+			]
+		],
+		[
+			"perfume",
+			"carol_date",
+			[
+				60,
+				60,
+				120
+			]
+		],
+		[
+			"heartbass",
+			"carol_date",
+			[
+				60,
+				60,
+				120
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Date week"
+}

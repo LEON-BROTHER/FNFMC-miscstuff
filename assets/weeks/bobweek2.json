@@ -1,0 +1,48 @@
+{
+    "storyName": "Looks Like Dream Haha lol",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "category": "bob",
+
+    "hideStoryMode": false,
+    "songs": [
+        [
+            "Ron",
+            "ron", [
+                255,
+                216,
+                0
+            ]
+        ],
+        [
+            "Trouble",
+            "bob-gloop", [
+                255,
+                255,
+                255
+            ]
+        ],
+        [
+            "Onslaught",
+            "bob-glitch", [
+                15,
+                15,
+                15
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "bob",
+        "bf",
+        "gf"
+    ],
+    "weekName": "bobweek2"
+}

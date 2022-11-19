@@ -1,0 +1,41 @@
+{
+	"storyName": "Zardy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Foolhardy",
+			"zardyMyBeloved",
+			[
+				255,
+				135,
+				55
+			]
+		],
+		[
+			"Bushwhack",
+			"zardyButDARK",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"category": "zardy",
+	"hideStoryMode": true,
+	"weekName": "Zardy"
+}

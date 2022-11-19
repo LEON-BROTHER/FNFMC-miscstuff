@@ -1,0 +1,32 @@
+{
+	"storyName": "Ayo the pizza here",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category":"bob",
+	"songs": [
+		[
+			"Little-Man",
+			"littleman",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"bob",
+		"bf",
+		"gf"
+	],
+	"weekName": "bobweekbonus"
+}

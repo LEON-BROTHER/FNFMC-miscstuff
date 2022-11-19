@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"casanova",
+			"selever",
+			[
+				175,
+				40,
+				115
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"category": "mfm",
+	"weekBackground": "",
+	"difficulties": "Easy,Normal,Hard,Alt",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "selever",
+	"weekName": "selv",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

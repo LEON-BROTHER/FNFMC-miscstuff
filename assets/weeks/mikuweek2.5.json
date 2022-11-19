@@ -1,0 +1,53 @@
+{
+	"storyName": "More About Hatsune Miku",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "mikuweek2",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category": "miku",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tutorial-Miku",
+			"tricky-expo",
+			[
+				24,
+				95,
+				64
+			]
+		],
+		[
+			"Endless-Miku",
+			"carol-speaker",
+			[
+				102,
+				102,
+				153
+			]
+		],
+		[
+			"Chug",
+			"miku-mad",
+			[
+				50,
+				205,
+				204
+			]
+		],
+		[
+			"Infinite",
+			"miku",
+			[
+				50,
+				205,
+				204
+			]
+		]
+	],
+	"weekName": "mikuweek2.5"
+}

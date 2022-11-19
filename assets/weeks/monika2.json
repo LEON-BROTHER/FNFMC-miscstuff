@@ -1,0 +1,32 @@
+{
+	"storyName": "Monika",
+	"difficulties": "",
+	"category": "dokidoki",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Reconciliation",
+			"monika-real",
+			[
+				140,
+				212,
+				101
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "monika2"
+}

@@ -1,0 +1,31 @@
+{
+    "songs": [
+        [
+            "Tutorial-Neo",
+            "gf-neo", [
+                188,
+                58,
+                168
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "stage",
+    "difficulties": "",
+    "weekCharacters": [
+        "",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Heatin' Up",
+    "weekName": "Custom Week",
+    "category": "neo",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

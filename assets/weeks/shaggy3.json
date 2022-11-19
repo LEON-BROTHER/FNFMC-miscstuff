@@ -1,0 +1,32 @@
+{
+	"storyName": "Ultimate destruction",
+	"difficulties": "4k,shaggy-easy,shaggy-canon",
+	"hideFreeplay": false,
+	"weekBackground": "skys",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": "shaggy",
+	"songs": [
+		[
+			"god-eater",
+			"pshaggy",
+			[
+				120,
+				0,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"pshaggy",
+		"bf",
+		"gf"
+	],
+	"weekName": "shaggy3"
+}

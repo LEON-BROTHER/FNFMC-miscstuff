@@ -1,0 +1,32 @@
+{
+	"storyName": "Detra Bonus Song",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category": "detra",
+	"songs": [
+		[
+			"Extremus",
+			"detra",
+			[
+				204,
+				204,
+				204
+			]
+		]
+	],
+	"weekCharacters": [
+		"detra",
+		"bf",
+		"gf"
+	],
+	"weekName": "detraweek2.5"
+}

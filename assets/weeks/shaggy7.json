@@ -1,0 +1,32 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "shaggy-easy,shaggy-canon",
+	"hideFreeplay": false,
+	"weekBackground": "sky",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category": "shaggy",
+	"songs": [
+		[
+			"BIG-SHOT",
+			"spamton",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "shaggybigshot"
+}

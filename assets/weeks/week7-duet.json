@@ -1,0 +1,41 @@
+{
+    "storyName": "tankman",
+    "hideFreeplay": false,
+    "weekBackground": "tank",
+    "weekBefore": "week6",
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "category": "duet",
+    "weekCharacters": [
+        "tankman",
+        "bf",
+        "gf"
+    ],
+    "songs": [
+        [
+            "Ugh-Duet",
+            "tankman", [
+                255,
+                215,
+                80
+            ]
+        ],
+        [
+            "Guns-Duet",
+            "tankman", [
+                255,
+                215,
+                80
+            ]
+        ],
+        [
+            "Stress-Duet",
+            "tankman", [
+                255,
+                215,
+                80
+            ]
+        ]
+    ],
+    "weekName": "Week 7"
+}

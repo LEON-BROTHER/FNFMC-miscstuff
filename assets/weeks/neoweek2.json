@@ -1,0 +1,47 @@
+{
+    "storyName": "Graveyard Shift",
+    "difficulties": "",
+    "category": "neo",
+    "hideFreeplay": false,
+    "weekBackground": "halloween",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "songs": [
+        [
+            "Spookeez-Neo",
+            "spooky-neo", [
+                102,
+                243,
+                255
+            ]
+        ],
+        [
+            "South-Neo",
+            "spooky-neo", [
+                102,
+                243,
+                255
+            ]
+        ],
+        [
+            "Illusion",
+            "monster-neo", [
+                255,
+                0,
+                7
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "spooky",
+        "bf",
+        "gf"
+    ],
+    "weekName": "neoweek2"
+}

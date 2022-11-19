@@ -1,0 +1,47 @@
+{
+    "storyName": "Clown",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "category": "tricky",
+    "songs": [
+        [
+            "Improbable-Outset",
+            "tricky-mask", [
+                24,
+                95,
+                64
+            ]
+        ],
+        [
+            "Madness",
+            "tricky", [
+                24,
+                95,
+                64
+            ]
+        ],
+        [
+            "Hellclown",
+            "tricky-hell", [
+                255,
+                255,
+                255
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "tricky",
+        "bf",
+        "gf"
+    ],
+    "weekName": "tricky"
+}

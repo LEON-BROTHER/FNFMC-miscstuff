@@ -1,0 +1,32 @@
+{
+	"storyName": "TALLADEGA",
+	"difficulties": "4k,shaggy-easy,shaggy-canon",
+	"hideFreeplay": false,
+	"weekBackground": "lava",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": "shaggy",
+	"songs": [
+		[
+			"Talladega",
+			"zshaggy",
+			[
+				0,
+				60,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "shaggy6"
+}

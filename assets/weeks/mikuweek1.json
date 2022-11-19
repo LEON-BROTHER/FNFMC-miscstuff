@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Popipo",
+			"miku",
+			[
+				50,
+				205,
+				204
+			]
+		],
+		[
+			"Aishite",
+			"miku",
+			[
+				50,
+				205,
+				204
+			]
+		],
+		[
+			"Siu",
+			"miku",
+			[
+				50,
+				205,
+				204
+			]
+		],
+		[
+			"Disappearance",
+			"miku-mad",
+			[
+				50,
+				205,
+				204
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"category":"miku",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Hatsune Miku",
+	"weekName": "mikuweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,44 @@
+{
+	"storyName": "Daddy Dearest Duet B-Sides",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"category":"duet-b-sides",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bopeebo-B-Sides-Duet",
+			"dad-b",
+			[
+				255,
+				152,
+				197
+			]
+		],
+		[
+			"Fresh-B-Sides-Duet",
+			"dad-b",
+			[
+				255,
+				152,
+				197
+			]
+		],
+		[
+			"Dadbattle-B-Sides-Duet",
+			"dad-b",
+			[
+				255,
+				152,
+				197
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 1 Duet B-Sides"
+}

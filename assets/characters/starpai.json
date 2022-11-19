@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-218,
+				-280
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Starpai Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-220,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "STARPAI UP NOTE"
+		},
+		{
+			"offsets": [
+				-220,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "STARPAI RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				-200,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "STARPAI LEFT NOTE"
+		},
+		{
+			"offsets": [
+				-200,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "STARPAI DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/starsenpai",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "starpai",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		246,
+		255
+	],
+	"camera_position": [
+		-100,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Sussus-Moogus",
+			"impostor",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Sabotage",
+			"impostor",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Meltdown",
+			"impostor2",
+			[
+				255,
+				51,
+				51
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"category":"impostor",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Polus",
+	"weekName": "impostorweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

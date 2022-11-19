@@ -1,0 +1,41 @@
+{
+    "storyName": "PICO Duet B-Sides",
+    "hideFreeplay": false,
+    "weekBackground": "philly",
+    "category": "duet-b-sides",
+    "weekBefore": "week2",
+    "startUnlocked": true,
+    "weekCharacters": [
+        "pico",
+        "bf",
+        "gf"
+    ],
+    "songs": [
+        [
+            "Pico-B-Sides-Duet",
+            "pico-b", [
+                144,
+                121,
+                208
+            ]
+        ],
+        [
+            "Philly-B-Sides-Duet",
+            "pico-b", [
+                144,
+                121,
+                208
+            ]
+        ],
+        [
+            "Blammed-B-Sides-Duet",
+            "pico-b", [
+                144,
+                121,
+                208
+            ]
+        ]
+    ],
+    "hideStoryMode": true,
+    "weekName": "Week 3"
+}

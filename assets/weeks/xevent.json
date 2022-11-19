@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Overwrite", "xchara", [146, 113, 253]],
+		["Inkingmistake", "ink", [146, 113, 253]],
+		["Relighted", "xgaster", [146, 113, 253]]
+	],
+	"category":"xevent",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "X-Event",
+	"weekBefore": "tutorial",
+	"weekName": "X-Event",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

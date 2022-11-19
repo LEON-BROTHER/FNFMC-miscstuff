@@ -1,0 +1,48 @@
+{
+    "songs": [
+        [
+            "Bopeebo-Neo",
+            "dad-neo", [
+                0,
+                234,
+                255
+            ]
+        ],
+        [
+            "Fresh-Neo",
+            "dad-neo", [
+                0,
+                234,
+                255
+            ]
+        ],
+        [
+            "Dadbattle-Neo",
+            "dad-neo", [
+                0,
+                234,
+                255
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "stage",
+    "category": "neo",
+    "difficulties": "",
+
+    "weekCharacters": [
+        "dad",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Rockstar",
+    "weekName": "neoweek1",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

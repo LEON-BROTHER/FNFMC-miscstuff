@@ -1,0 +1,32 @@
+{
+    "storyName": "Alien Waifu",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "stage",
+    "weekBefore": "",
+
+    "category": "star",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "songs": [
+        [
+            "Tutorial-Starcatcher",
+            "gf-star", [
+                165,
+                0,
+                77
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "bf",
+        "gf"
+    ],
+    "weekName": "starcatcher0"
+}

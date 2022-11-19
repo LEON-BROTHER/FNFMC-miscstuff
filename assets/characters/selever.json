@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fuckboi singLEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				3
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "fuckboi hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fuckboi singDOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				48
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fuckboi singUP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				2
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fuckboi singRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fuckboi idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fuckboi_sheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "selever",
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		38,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

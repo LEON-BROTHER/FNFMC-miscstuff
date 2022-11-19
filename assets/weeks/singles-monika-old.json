@@ -1,0 +1,32 @@
+{
+	"storyName": "monika old",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category": "singles",
+	"songs": [
+		[
+			"High-School-Conflict-Old",
+			"monika",
+			[
+				255,
+				187,
+				227
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "monika old"
+}

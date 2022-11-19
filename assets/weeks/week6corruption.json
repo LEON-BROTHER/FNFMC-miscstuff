@@ -1,0 +1,59 @@
+{
+	"storyName": "delete",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": "corruption",
+	"songs": [
+		[
+			"Senpai-Remix",
+			"senpai-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Dead-Pixel",
+			"senpai-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Treacherous-Thorns",
+			"senpai-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"roots",
+			"spirit-crazy",
+			[
+				255,
+				120,
+				191
+			]
+		]
+	],
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		""
+	],
+	"weekName": "idk"
+}

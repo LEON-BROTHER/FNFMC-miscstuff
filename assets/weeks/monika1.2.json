@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Dreams-Of-Roses",
+			"duet",
+			[
+				255,
+				184,
+				227
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"category": "dokidoki",
+	"weekBackground": "school",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Just Monika",
+	"weekName": "monikaweek1.2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

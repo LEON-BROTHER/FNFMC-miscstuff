@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Sussy-Bussy",
+			"tomongus",
+			[
+				255,
+				103,
+				112
+			]
+		],
+		[
+			"Rivals",
+			"tomongus",
+			[
+				255,
+				103,
+				112
+			]
+		],
+		[
+			"Chewmate",
+			"hamster",
+			[
+				255,
+				207,
+				134
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"category":"impostor",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Skeld",
+	"weekName": "impostorweek3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

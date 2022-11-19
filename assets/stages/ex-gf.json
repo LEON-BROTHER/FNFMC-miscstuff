@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Something Spiteful",
+			"ex-gf",
+			[
+				100,
+				255,
+				193
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"exgf",
+		"bf",
+		"gf"
+	],
+	"storyName": "Ayana",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

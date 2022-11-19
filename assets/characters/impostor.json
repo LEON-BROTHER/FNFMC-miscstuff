@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "impostor idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "imposter left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "impostor down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "impostor right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				140
+			],
+			"anim": "kill",
+			"fps": 24,
+			"name": "impostor kill",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-59,
+				65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "gf",
+			"loop": false,
+			"name": "impostor gf0"
+		},
+		{
+			"offsets": [
+				-49,
+				66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "impostor up2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/impostorPolus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "impostor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		51,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

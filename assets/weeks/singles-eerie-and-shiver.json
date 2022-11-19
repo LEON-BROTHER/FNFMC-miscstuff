@@ -1,0 +1,34 @@
+{
+	"storyName": "Spooky Month",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"category":"singles",
+	"freeplayColor": [
+		34, 51, 68
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Shiver",
+			"spooky",
+			[
+				34, 51, 68
+			]
+		],
+		[
+			"Eerie",
+			"spooky",
+			[
+				34, 51, 68
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "singles-eerie-shiver"
+}

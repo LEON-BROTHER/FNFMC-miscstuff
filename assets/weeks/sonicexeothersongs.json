@@ -1,0 +1,143 @@
+{
+    "category": "sonicexe",
+    "songs": [
+        [
+            "black-sun",
+            "exe", [
+                26,
+                0,
+                193
+            ]
+        ],
+        [
+            "chaos",
+            "fleetway", [
+                255,
+                255,
+                75
+            ]
+        ],
+        [
+            "cycles",
+            "sonicLordX", [
+                40,
+                40,
+                80
+            ]
+        ],
+        [
+            "endless",
+            "sonicfun", [
+                6,
+                0,
+                253
+            ]
+        ],
+        [
+            "Endless-Old",
+            "sonicfun-old", [
+                6,
+                0,
+                253
+            ]
+        ],
+        [
+            "faker",
+            "faker", [
+                46,
+                0,
+                173
+            ]
+        ],
+        [
+            "milk",
+            "sunky", [
+                0,
+                113,
+                253
+            ]
+        ],
+        [
+            "milk-new",
+            "sunkyNew", [
+                0,
+                113,
+                253
+            ]
+        ],
+        [
+            "sunshine",
+            "TDoll", [
+                186,
+                133,
+                0
+            ]
+        ],
+        [
+            "prey",
+            "furnace", [
+                78,
+                78,
+                78
+            ]
+        ],
+        [
+            "fight-or-flight",
+            "starved", [
+                255,
+                36,
+                0
+            ]
+        ],
+        [
+            "substantial",
+            "xterion", [
+                23,
+                0,
+                224
+            ]
+        ],
+        [
+            "personel",
+            "coldsteel", [
+                101,
+                76,
+                151
+            ]
+        ],
+        [
+            "round-a-bout",
+            "needlemouse", [
+                101,
+                76,
+                151
+            ]
+        ],
+        [
+            "too-fest",
+            "sanic", [
+                0,
+                0,
+                115
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "",
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "storyName": "",
+    "weekName": "sonicexeothersongs",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": true,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

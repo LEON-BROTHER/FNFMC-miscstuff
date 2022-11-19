@@ -1,0 +1,44 @@
+{
+	"storyName": "PICO",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"category":"b-sides",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pico-B-Sides",
+			"pico-b",
+			[
+				144,
+				121,
+				208
+			]
+		],
+		[
+			"Philly-B-Sides",
+			"pico-b",
+			[
+				144,
+				121,
+				208
+			]
+		],
+		[
+			"Blammed-B-Sides",
+			"pico-b",
+			[
+				144,
+				121,
+				208
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

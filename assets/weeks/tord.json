@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Norway",
+			"tord",
+			[
+				204,
+				51,
+				51
+			]
+		],
+		[
+			"Tordbot",
+			"tordbot",
+			[
+				204,
+				51,
+				51
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"tord",
+		"bf",
+		"gf"
+	],
+	"storyName": "Tord",
+	"weekName": "Tord",
+	"category": "tord",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

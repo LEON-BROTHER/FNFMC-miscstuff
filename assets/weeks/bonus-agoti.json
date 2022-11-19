@@ -1,0 +1,31 @@
+{
+    "songs": [
+        [
+            "Guns-Agoti",
+            "agoti", [
+                186,
+                30,
+                36
+            ]
+        ]
+    ],
+    "category": "agoti",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "",
+    "weekCharacters": [
+        "agoti",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Prisoner of the Void",
+    "weekName": "agoti",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": true,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

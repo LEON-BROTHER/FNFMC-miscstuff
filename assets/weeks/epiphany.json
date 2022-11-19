@@ -1,0 +1,31 @@
+{
+    "songs": [
+        [
+            "Epiphany",
+            "bigmonika", [
+                140,
+                212,
+                101
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "Hard",
+    "category": "dokidoki",
+    "weekCharacters": [
+        "dad",
+        "bf",
+        "gf"
+    ],
+    "storyName": "BigMonika",
+    "weekName": "ephiphany",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": true,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

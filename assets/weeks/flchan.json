@@ -1,0 +1,47 @@
+{
+    "storyName": "Fl Chan",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "category": "flchan",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "songs": [
+        [
+            "Eferu-Chan",
+            "flchan", [
+                165,
+                220,
+                133
+            ]
+        ],
+        [
+            "Fruity-Reeverb",
+            "flchan", [
+                165,
+                220,
+                133
+            ]
+        ],
+        [
+            "FL-Slayer",
+            "flchan", [
+                165,
+                220,
+                133
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "flchan",
+        "bf",
+        "gf"
+    ],
+    "weekName": "Custom Week"
+}

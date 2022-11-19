@@ -1,0 +1,35 @@
+{
+	"storyName": "Spooky Month",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"category":"b-sides",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez-B-Sides",
+			"spooky-b",
+			[
+				179,
+				179,
+				179
+			]
+		],
+		[
+			"South-B-Sides",
+			"spooky-b",
+			[
+				179,
+				179,
+				179
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

@@ -1,0 +1,59 @@
+{
+	"category": "mfm",
+	"songs": [
+		[
+			"parish",
+			"sarvente",
+			[
+				255,
+				120,
+				175
+			]
+		],
+		[
+			"worship",
+			"sarvente",
+			[
+				255,
+				120,
+				175
+			]
+		],
+		[
+			"zavodila",
+			"ruv",
+			[
+				175,
+				175,
+				175
+			]
+		],
+		[
+			"gospel",
+			"sarvente-lucifer",
+			[
+				255,
+				0,
+				155
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy,Normal,Hard,Alt",
+	"weekCharacters": [
+		"mfm",
+		"bf",
+		"gf"
+	],
+	"storyName": "Mid Fight Masses",
+	"weekName": "mfm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

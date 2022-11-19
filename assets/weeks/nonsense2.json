@@ -1,0 +1,32 @@
+{
+	"storyName": "Nonsense",
+	"difficulties": "",
+	"weekBackground": "",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"nonsense",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"nonsensical",
+			"nonsense-god",
+			[
+				0,
+				240,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"category": "nonsense",
+	"weekName": "nonsense"
+}

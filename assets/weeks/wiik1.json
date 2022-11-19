@@ -1,0 +1,50 @@
+{
+	"storyName": "Matt's Tuesday Singing Lessons",
+	"difficulties": "Easy, Normal, Hard, Old",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"category": "matt",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Light-It-Up",
+			"matt",
+			[
+				255,
+				141,
+				0
+			]
+		],
+		[
+			"Ruckus",
+			"matt",
+			[
+				255,
+				141,
+				0
+			]
+		],
+		[
+			"Target-Practice",
+			"matt",
+			[
+				255,
+				141,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

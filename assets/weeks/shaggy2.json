@@ -1,0 +1,48 @@
+{
+	"storyName": "The rematch",
+	"difficulties": "4k,shaggy-easy,shaggy-canon",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": "shaggy",
+	"songs": [
+		[
+			"whats-new",
+			"shaggy",
+			[
+				20,
+				115,
+				0
+			]
+		],
+		[
+			"blast",
+			"sshaggy",
+			[
+				20,
+				115,
+				0
+			]
+		],
+		[
+			"super-saiyan",
+			"sshaggy",
+			[
+				20,
+				115,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"shaggy", "bf", "gf"
+	],
+	"weekName": "shaggy2"
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Loid",
+			"miku",
+			[
+				50,
+				205,
+				204
+			]
+		],
+		[
+			"Endurance",
+			"miku",
+			[
+				50,
+				205,
+				204
+			]
+		],
+		[
+			"Voca",
+			"miku",
+			[
+				50,
+				205,
+				204
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"category":"miku",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Vocaloid Hatsune Miku Again",
+	"weekName": "mikuweek2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "mikuweek1",
+	"startUnlocked": true
+}

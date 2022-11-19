@@ -1,0 +1,48 @@
+{
+    "songs": [
+        [
+            "Spookeez-Starcatcher",
+            "spooky-star", [
+                102,
+                153,
+                255
+            ]
+        ],
+        [
+            "South-Starcatcher",
+            "spooky-star", [
+                102,
+                153,
+                255
+            ]
+        ],
+        [
+            "Sugar-Rush",
+            "spooky-star", [
+                102,
+                153,
+                255
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "halloween",
+    "difficulties": "",
+    "category": "star",
+
+    "weekCharacters": [
+        "spooky",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Spooky Star",
+    "weekName": "starcatcher2",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "starcatcher1",
+    "startUnlocked": true
+}

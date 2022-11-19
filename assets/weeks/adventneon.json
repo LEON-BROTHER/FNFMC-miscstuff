@@ -1,0 +1,47 @@
+{
+    "songs": [
+        [
+            "Highrise",
+            "senpai-pixel-neon", [
+                6,
+                210,
+                42
+            ]
+        ],
+        [
+            "Ordinance",
+            "senpai-pixel-neon", [
+                6,
+                210,
+                42
+            ]
+        ],
+        [
+            "Transgression",
+            "spirit-neon", [
+                184,
+                255,
+                57
+            ]
+        ]
+    ],
+    "category": "neon",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "Easy, Normal, Hard, Crazy",
+    "weekCharacters": [
+        "neon",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Central District ft. Cryogx",
+    "weekName": "Custom Week",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

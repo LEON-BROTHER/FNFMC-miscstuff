@@ -1,0 +1,50 @@
+{
+	"storyName": "Bonus match",
+	"difficulties": "4k,shaggy-easy,shaggy-canon",
+	"hideFreeplay": false,
+	"weekBackground": "outside",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": "shaggy",
+	"songs": [
+		[
+			"Soothing-power",
+			"rshaggy",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"Thunderstorm",
+			"rshaggy",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"Dissasembler",
+			"rshaggy",
+			[
+				215,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"rshaggy",
+		"bf",
+		"gf"
+	],
+	"weekName": "shaggy4"
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Defeat",
+			"black",
+			[
+				43,
+				43,
+				43
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"category":"impostor",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Defeat",
+	"weekName": "impostorweek3.5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

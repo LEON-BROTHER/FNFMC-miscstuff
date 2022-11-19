@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Fresh-Remix", "dad", [146, 113, 253]]
+	],
+	"category":"singles",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest Remix",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

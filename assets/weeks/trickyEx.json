@@ -1,0 +1,31 @@
+{
+    "storyName": "Clown",
+    "difficulties": "Hard",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "category": "tricky",
+    "songs": [
+        [
+            "Expurgation",
+            "tricky-ex", [
+                255,
+                25,
+                0
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "tricky",
+        "bf",
+        "gf"
+    ],
+    "weekName": "trickyEx"
+}

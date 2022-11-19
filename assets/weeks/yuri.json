@@ -1,0 +1,41 @@
+{
+	"storyName": "yuri",
+	"category": "dokidoki",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Deep-Breaths",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"Obsession",
+			"yuri-crazy",
+			[
+				158,
+				114,
+				210
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "yuri"
+}

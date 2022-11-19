@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Lemon IDLE"
+		},
+		{
+			"offsets": [
+				-119,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Lemon UP"
+		},
+		{
+			"offsets": [
+				-120,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Lemon LEFT"
+		},
+		{
+			"offsets": [
+				44,
+				-41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Lemon RIGHT"
+		},
+		{
+			"offsets": [
+				92,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Lemon DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lemon",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "monster-neo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		7
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

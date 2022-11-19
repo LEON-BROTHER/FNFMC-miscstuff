@@ -1,0 +1,59 @@
+{
+	"category": "annie",
+	"storyName": "Good Enough",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "annie",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"good-enough",
+			"annie",
+			[
+				160,
+				0,
+				20
+			]
+		],
+		[
+			"lover",
+			"annie",
+			[
+				160,
+				0,
+				20
+			]
+		],
+		[
+			"tug-of-war",
+			"annie",
+			[
+				160,
+				0,
+				20
+			]
+		],
+		[
+			"animal",
+			"annieafter",
+			[
+				160,
+				0,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"annie",
+		"bf",
+		"gf"
+	],
+	"weekName": "Annie"
+}

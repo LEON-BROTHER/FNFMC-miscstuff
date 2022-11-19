@@ -1,0 +1,55 @@
+{
+    "songs": [
+        [
+            "Crucify-(Yuri-Mix)",
+            "yuri", [
+                158,
+                114,
+                210
+            ]
+        ],
+        [
+            "Beathoven-(Natsuki-Mix)",
+            "natsuki", [
+                252,
+                149,
+                211
+            ]
+        ],
+        [
+            "It's-Complicated-(Sayori-Mix)",
+            "sayori", [
+                149,
+                224,
+                250
+            ]
+        ],
+        [
+            "Glitcher-(Monika-Mix)",
+            "monika-real", [
+                140,
+                212,
+                101
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "",
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "storyName": "The Festival",
+    "weekName": "dokidokiremix",
+    "category": "dokidoki",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

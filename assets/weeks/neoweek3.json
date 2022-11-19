@@ -1,0 +1,47 @@
+{
+    "category": "neo",
+    "songs": [
+        [
+            "Pico-Neo",
+            "pico-neo", [
+                255,
+                51,
+                255
+            ]
+        ],
+        [
+            "Philly-Neo",
+            "pico-neo", [
+                255,
+                51,
+                255
+            ]
+        ],
+        [
+            "Blammed-Neo",
+            "pico-neo", [
+                255,
+                51,
+                255
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "philly",
+    "difficulties": "",
+    "weekCharacters": [
+        "pico",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Drop Out",
+    "weekName": "neoweek3",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

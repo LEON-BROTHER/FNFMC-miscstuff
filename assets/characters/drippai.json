@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-220,
+				-280
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry Starpai Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-220,
+				-240
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry Starpai UP NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-200,
+				-280
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry Starpai LEFT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-220,
+				-280
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry Starpai RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-200,
+				-300
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry Starpai DOWN NOTE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/starsenpai",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "senpai-sd",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		-40,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

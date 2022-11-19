@@ -1,0 +1,50 @@
+{
+	"storyName": "Sakyua(Touhou)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"category":"touhou",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"The-Pocket-Watch-of-Blood",
+			"touhou",
+			[
+				171,
+				171,
+				171
+			]
+		],
+		[
+			"Lunar-Dial",
+			"touhou",
+			[
+				171,
+				171,
+				171
+			]
+		],
+		[
+			"Night-of-Nights",
+			"touhou",
+			[
+				171,
+				171,
+				171
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "touhou"
+}

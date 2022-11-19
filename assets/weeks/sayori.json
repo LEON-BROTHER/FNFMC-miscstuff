@@ -1,0 +1,41 @@
+{
+	"storyName": "sayori",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"category": "dokidoki",
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rain-Clouds",
+			"sayori",
+			[
+				149,
+				224,
+				250
+			]
+		],
+		[
+			"My-Confession",
+			"sayori",
+			[
+				149,
+				224,
+				250
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sayori"
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "SMG4",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category": "singles",
+	"songs": [
+		[
+			"Always-Running",
+			"belle",
+			[
+				213,
+				12,
+				45
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "SMG4"
+}

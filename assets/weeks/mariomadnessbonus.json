@@ -1,0 +1,27 @@
+{
+    "songs": [
+        ["Alone", "beta", [4, 70, 4]],
+        ["Apparition", "wario", [163, 124, 60]],
+        ["Forbidden-Star", "wario", [163, 124, 60]],
+        ["I-Hate-You", "luigiH", [20, 180, 0]],
+        [
+            "Powerdown", "MX", [40, 0, 0]
+        ],
+        ["Racetraitors", "race", [234, 34, 36]]
+    ],
+
+    "weekCharacters": [
+        "dad",
+        "bf",
+        "gf"
+    ],
+    "weekBackground": "stage",
+    "difficulties": "Normal",
+    "storyName": "Daddy Dearest",
+    "weekBefore": "tutorial",
+    "weekName": "Week 1",
+    "startUnlocked": true,
+    "category": "madnessmod",
+    "hideStoryMode": true,
+    "hideFreeplay": false
+}

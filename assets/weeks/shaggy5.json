@@ -1,0 +1,32 @@
+{
+	"storyName": "Special Kombat with the third of his kind",
+	"difficulties": "4k,shaggy-easy,shaggy-canon",
+	"hideFreeplay": false,
+	"weekBackground": "lava",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": "shaggy",
+	"songs": [
+		[
+			"Astral-calamity",
+			"wbshaggy",
+			[
+				0,
+				20,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"wbshaggy",
+		"bf",
+		"gf"
+	],
+	"weekName": "shaggy5"
+}

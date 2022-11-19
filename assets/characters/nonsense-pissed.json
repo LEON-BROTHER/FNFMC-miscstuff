@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pissed Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pissed left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "mad",
+			"fps": 24,
+			"name": "pissed mid-song",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				1
+			],
+			"anim": "hahahlol",
+			"fps": 24,
+			"name": "takethat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Mad Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-48
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				11
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "MAD up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-2
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "MadRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-30
+			],
+			"anim": "pain",
+			"fps": 24,
+			"name": "Lol he pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Mad Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nonsense_Pissed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

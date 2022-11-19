@@ -1,0 +1,47 @@
+{
+    "songs": [
+        [
+            "High-School-Conflict",
+            "monika", [
+                255,
+                184,
+                227
+            ]
+        ],
+        [
+            "Bara-No-Yume",
+            "duet", [
+                255,
+                184,
+                227
+            ]
+        ],
+        [
+            "Your-Demise",
+            "monika-angry", [
+                201,
+                206,
+                255
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "school",
+    "difficulties": "",
+    "category": "dokidoki",
+    "weekCharacters": [
+        "monika",
+        "bf",
+        "gf"
+    ],
+    "storyName": "PROLOGUE: Monika",
+    "weekName": "monikaweek1",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

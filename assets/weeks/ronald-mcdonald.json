@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["deaf-to-all-but-the-ronald", "ronald", [160, 209, 255]],
+		["tenth-anniversary-insanity", "coronald", [160, 209, 255]]
+		
+	],
+
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "christmas",
+	"category": "singles",
+
+	"storyName": "RED SNOW",
+	"weekBefore": "",
+	"weekName": "ronaldmcdonald",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

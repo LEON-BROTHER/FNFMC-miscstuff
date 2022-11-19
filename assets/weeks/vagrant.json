@@ -1,0 +1,50 @@
+{
+	"storyName": "Detra's Mental Decimation Part II",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": "detra",
+	"songs": [
+		[
+			"Embark",
+			"vagrant",
+			[
+				204,
+				204,
+				204
+			]
+		],
+		[
+			"Facade",
+			"vagrant",
+			[
+				204,
+				204,
+				204
+			]
+		],
+		[
+			"Compel",
+			"vagrant",
+			[
+				204,
+				204,
+				204
+			]
+		]
+	],
+	"weekCharacters": [
+		"vagrant",
+		"bf",
+		"gf"
+	],
+	"weekName": "detraweek2"
+}

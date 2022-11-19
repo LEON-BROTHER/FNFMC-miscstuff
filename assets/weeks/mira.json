@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Sussus-Toogus",
+			"crewmate",
+			[
+				64,
+				171,
+				34
+			]
+		],
+		[
+			"Lights-Down",
+			"impostor3",
+			[
+				64,
+				171,
+				34
+			]
+		],
+		[
+			"Reactor",
+			"impostor3",
+			[
+				64,
+				171,
+				34
+			]
+		],
+		[
+			"Ejected",
+			"parasite",
+			[
+				64,
+				171,
+				34
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"category":"impostor",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Mira HQ",
+	"weekName": "impostorweek2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

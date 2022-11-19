@@ -1,0 +1,50 @@
+{
+	"storyName": "Pick n' Pluck",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Petals",
+			"rosie",
+			[
+				255,
+				136,
+				215
+			]
+		],
+		[
+			"Bloom",
+			"rosie",
+			[
+				255,
+				136,
+				215
+			]
+		],
+		[
+			"Poison",
+			"rosie",
+			[
+				255,
+				136,
+				215
+			]
+		]
+	],
+	"category": "rosie",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "rosieweek1"
+}

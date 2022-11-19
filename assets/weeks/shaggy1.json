@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Where-are-you",
+			"shaggy",
+			[
+				20,
+				115,
+				0
+			]
+		],
+		[
+			"eruption",
+			"shaggy",
+			[
+				20,
+				115,
+				0
+			]
+		],
+		[
+			"kaio-ken",
+			"shaggy",
+			[
+				20,
+				115,
+				0
+			]
+		]
+	],
+	"category": "shaggy",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"difficulties": "4k,shaggy-easy,shaggy-canon",
+	"weekCharacters": [
+		"shaggy", "bf", "gf"
+	],
+	"storyName": "First encounter",
+	"weekName": "shaggy1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

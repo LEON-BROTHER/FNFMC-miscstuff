@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"category":"b-sides",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tutorial-B-Sides",
+			"gf-b",
+			[
+				122,
+				0,
+				170
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial-b"
+}

@@ -1,0 +1,22 @@
+{
+    "songs": [
+        ["Pico-Duet", "pico", [148, 22, 83]],
+        ["Philly-Duet", "pico", [148, 22, 83]],
+        ["Blammed-Duet", "pico", [148, 22, 83]]
+    ],
+    "category": "duet",
+    "weekCharacters": [
+        "pico",
+        "bf",
+        "gf"
+    ],
+    "weekBackground": "philly",
+
+    "storyName": "PICO",
+    "weekBefore": "week2",
+    "weekName": "Week 3",
+    "startUnlocked": true,
+
+    "hideStoryMode": true,
+    "hideFreeplay": false
+}

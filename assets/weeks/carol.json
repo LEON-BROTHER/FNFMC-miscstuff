@@ -1,0 +1,49 @@
+{
+	"storyName": "Carol",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "whitty",
+	"category": "carol",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"carol",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Carol Roll",
+			"carol",
+			[
+				166,
+				113,
+				253
+			]
+		],
+		[
+			"Body",
+			"carol",
+			[
+				166,
+				113,
+				253
+			]
+		],
+		[
+			"Boogie",
+			"carol",
+			[
+				166,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Carol"
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "natsuki",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"category": "dokidoki",
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"My-Sweets",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		],
+		[
+			"Baka",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "natsuki"
+}

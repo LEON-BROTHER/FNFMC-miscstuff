@@ -1,0 +1,44 @@
+{
+	"storyName": "RED SNOW",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "week4",
+	"category":"b-sides",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cocoa-B-Sides",
+			"parents-b",
+			[
+				251,
+				151,
+				194
+			]
+		],
+		[
+			"Eggnog-B-Sides",
+			"parents-b",
+			[
+				251,
+				151,
+				194
+			]
+		],
+		[
+			"Winter Horrorland-B-Sides",
+			"monster-b",
+			[
+				120,
+				255,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

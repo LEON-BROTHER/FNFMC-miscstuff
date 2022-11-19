@@ -1,0 +1,48 @@
+{
+    "storyName": "Cyber Star",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "philly",
+    "category": "star",
+
+    "weekBefore": "starcatcher2",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "songs": [
+        [
+            "Pico-Starcatcher",
+            "pico-star", [
+                183,
+                216,
+                85
+            ]
+        ],
+        [
+            "Philly-Starcatcher",
+            "pico-star", [
+                183,
+                216,
+                85
+            ]
+        ],
+        [
+            "Blammed-Starcatcher",
+            "pico-star", [
+                183,
+                216,
+                85
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "pico",
+        "bf",
+        "gf"
+    ],
+    "weekName": "starcatcher3"
+}

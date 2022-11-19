@@ -1,0 +1,22 @@
+{
+    "songs": [
+        ["Corrupted-Spookeez", "spookyd1", [34, 51, 68]],
+        ["Sanguine-South", "spookyd2", [34, 51, 68]],
+        ["Chiller", "spookyd3", [34, 51, 68]]
+    ],
+    "category": "corruption",
+    "weekCharacters": [
+        "spooky",
+        "bf",
+        "gf"
+    ],
+    "weekBackground": "halloween",
+
+    "storyName": "Good Times Must End",
+    "weekBefore": "week1",
+    "weekName": "Week 2 Corrupted",
+    "startUnlocked": true,
+    "difficulties": "Normal",
+    "hideStoryMode": true,
+    "hideFreeplay": false
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "Stargazing",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Supreme",
+			"senpai-sd",
+			[
+				0,
+				213,
+				255
+			]
+		]
+	],
+	"category": "sd",
+	"weekCharacters": [
+		"senpai-sd",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,35 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "hypno",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"category": "hypno",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Safety Lullaby",
+			"hypno",
+			[
+				245,
+				220,
+				77
+			]
+		],
+		[
+			"Left Unchecked",
+			"hypno-two",
+			[
+				245,
+				220,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}

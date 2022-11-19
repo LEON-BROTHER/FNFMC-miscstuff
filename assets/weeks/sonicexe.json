@@ -1,0 +1,50 @@
+{
+	"storyName": "Sonic.exe",
+	"difficulties": "",
+	"category": "sonicexe",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sonicexe",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"too-slow",
+			"sonic",
+			[
+				40,
+				0,
+				175
+			]
+		],
+		[
+			"you-cant-run",
+			"sonic.exe",
+			[
+				40,
+				0,
+				175
+			]
+		],
+		[
+			"triple-trouble",
+			"beast",
+			[
+				40,
+				0,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sonicexe"
+}

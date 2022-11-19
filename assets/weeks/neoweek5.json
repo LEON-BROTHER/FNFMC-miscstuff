@@ -1,0 +1,47 @@
+{
+    "songs": [
+        [
+            "Cocoa-Neo",
+            "parents-neo", [
+                0,
+                234,
+                255
+            ]
+        ],
+        [
+            "Eggnog-Neo",
+            "parents-neo", [
+                0,
+                234,
+                255
+            ]
+        ],
+        [
+            "Hallucination",
+            "monster-neo", [
+                255,
+                0,
+                7
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "christmas",
+    "difficulties": "",
+    "weekCharacters": [
+        "parents-christmas",
+        "bf",
+        "gf"
+    ],
+    "storyName": "Thin Ice",
+    "weekName": "neoweek5",
+    "category": "neo",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": false,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}
