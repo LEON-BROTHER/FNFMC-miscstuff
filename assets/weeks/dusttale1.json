@@ -1,0 +1,78 @@
+{
+	"songs": [
+		[
+			"The-Murderer",
+			"sans",
+			[
+				123,
+				123,
+				123
+			]
+		],
+		[
+			"Red-Megalovania",
+			"sans",
+			[
+				123,
+				123,
+				123
+			]
+		],
+		[
+			"Drowning",
+			"sans",
+			[
+				123,
+				123,
+				123
+			]
+		],
+		[
+			"Psychotic-Breakdown",
+			"sans",
+			[
+				123,
+				123,
+				123
+			]
+		],
+		[
+			"D.I.E",
+			"sans",
+			[
+				123,
+				123,
+				123
+			]
+		],
+		
+		[
+			"Anthropophobia",
+			"sans",
+			[
+				123,
+				123,
+				123
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"category":"dusttale",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

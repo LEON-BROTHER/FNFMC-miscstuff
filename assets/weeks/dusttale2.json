@@ -1,0 +1,40 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "","category":"dusttale",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Hallucinations",
+			"paps",
+			[
+				123,
+				123,
+				123
+			]
+		],
+		[
+			"Last-Hope",
+			"chara-dusttale",
+			[
+				123,
+				123,
+				123
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": ""
+}

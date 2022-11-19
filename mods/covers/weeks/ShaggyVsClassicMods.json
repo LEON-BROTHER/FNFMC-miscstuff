@@ -1,0 +1,30 @@
+{
+    "storyName": "Power of Puns",
+    "difficulties": "Normal",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+		[
+            "bomb-n-roll",
+            "nightwhit", [
+                10,
+                0,
+                35
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "bf",
+        "gf"
+    ],
+    "weekName": "Shaggy Vs Sans"
+}

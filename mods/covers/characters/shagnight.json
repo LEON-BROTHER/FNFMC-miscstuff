@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-160
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "shaggy_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-16,
+				27
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 30,
+			"name": "shaggy_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 30,
+			"name": "shaggy_idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle2",
+			"name": "shaggy_idle2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				-34
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "shaggy_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-118
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "shaggy_left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shag_night",
+	"position": [
+		140,
+		0
+	],
+	"healthicon": "nightshag",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		242,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,2 +1,16 @@
 1.7.9 - REVIVE OF THE MOD
-- Test for now
+—Mods—
+Added Too Fest (3.0 version)
+Added Heather Mod
+Added Hazy River
+Added Dusttale - Story Mode Icons are missing for now I just wanted to have this update done so people can play it normally again :D
+Added Unlabeled Anime Mod
+Added Detra
+Added Doors Single
+—Bugs—
+Fixed Neo Week 5 Pos
+Fixed Twinsomnia
+Fixed even more
+—Misc Stuff—
+Added ingame patching stuff
+Added even more idk it anymore tho.

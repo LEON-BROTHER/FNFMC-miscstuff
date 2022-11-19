@@ -114,6 +114,14 @@
             ]
         ],
         [
+            "too-fest-new",
+            "sanic", [
+                0,
+                0,
+                115
+            ]
+        ],
+        [
             "too-fest",
             "sanic", [
                 0,
@@ -121,6 +129,7 @@
                 115
             ]
         ]
+        
     ],
     "hideFreeplay": false,
     "weekBackground": "",
