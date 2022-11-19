@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "Nonsense UI",
+	"position": [
+		108,
+		102
+	],
+	"scale": 0.7,
+	"image": "Menu_Nonsense",
+	"flipX": false
+}

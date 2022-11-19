@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_sonicexe.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONICmoveIDLE0000" x="0" y="0" width="361" height="583" pivotX="-300.3" pivotY="-152.85" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0001" x="361" y="0" width="361" height="583" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0002" x="722" y="0" width="361" height="582" frameX="-1" frameY="-1" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0003" x="1083" y="0" width="363" height="582" frameX="-4" frameY="-1" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0004" x="1446" y="0" width="364" height="581" frameX="-5" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0005" x="0" y="583" width="363" height="581" frameX="-6" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0006" x="363" y="583" width="364" height="581" frameX="-5" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0007" x="727" y="583" width="364" height="581" frameX="-4" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0008" x="1091" y="583" width="362" height="582" frameX="-1" frameY="-1" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0009" x="1453" y="583" width="361" height="583" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0010" x="0" y="1166" width="361" height="583" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+</TextureAtlas>

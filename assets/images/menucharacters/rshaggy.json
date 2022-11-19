@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M RShaggy Idle",
+	"image": "Menu_RShaggy",
+	"position": [
+		36,
+		22
+	],
+	"scale": 0.95,
+	"confirm_anim": "M Dad Idle"
+}

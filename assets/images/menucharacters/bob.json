@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BOBBY BOBINO BOBBLE menu",
+	"image": "Menu_Bob",
+	"position": [
+		76,
+		-128
+	],
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

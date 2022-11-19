@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_NOTE_assets_v2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDOWN0000" x="0" y="0" width="188" height="185"/>
+	<SubTexture name="arrowLEFT0000" x="212" y="0" width="185" height="188"/>
+	<SubTexture name="arrowRIGHT0000" x="421" y="0" width="185" height="188"/>
+	<SubTexture name="arrowUP0000" x="630" y="0" width="188" height="185"/>
+	<SubTexture name="B0000" x="0" y="212" width="188" height="185"/>
+	<SubTexture name="B tail0000" x="212" y="212" width="50" height="65"/>
+	<SubTexture name="B hold0000" x="286" y="212" width="50" height="44"/>
+	<SubTexture name="B confirm0000" x="360" y="212" width="204" height="201" frameX="-13" frameY="-13" frameWidth="230" frameHeight="227"/>
+	<SubTexture name="B confirm0001" x="588" y="212" width="230" height="227"/>
+	<SubTexture name="B confirm0002" x="0" y="463" width="221" height="217" frameX="-5" frameY="-8" frameWidth="230" frameHeight="227"/>
+	<SubTexture name="B confirm0003" x="0" y="463" width="221" height="217" frameX="-5" frameY="-8" frameWidth="230" frameHeight="227"/>
+	<SubTexture name="B press0000" x="245" y="463" width="142" height="139" frameX="-2" frameY="-3" frameWidth="147" frameHeight="146"/>
+	<SubTexture name="B press0001" x="245" y="463" width="142" height="139" frameX="-2" frameY="-3" frameWidth="147" frameHeight="146"/>
+	<SubTexture name="B press0002" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0003" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0004" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0005" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0006" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0007" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0008" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0009" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0010" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0011" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0012" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0013" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0014" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0015" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0016" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0017" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0018" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="B press0019" x="411" y="463" width="147" height="146"/>
+	<SubTexture name="C0000" x="582" y="463" width="188" height="185"/>
+	<SubTexture name="C tail0000" x="794" y="463" width="50" height="65"/>
+	<SubTexture name="C hold0000" x="868" y="463" width="50" height="44"/>
+	<SubTexture name="A confirm0000" x="0" y="704" width="228" height="231"/>
+	<SubTexture name="A confirm0001" x="252" y="704" width="228" height="231"/>
+	<SubTexture name="A confirm0002" x="504" y="704" width="225" height="228" frameX="-2" frameY="-1" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="A confirm0003" x="504" y="704" width="225" height="228" frameX="-2" frameY="-1" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="A press0000" x="753" y="704" width="140" height="142" frameX="-3" frameY="-3" frameWidth="146" frameHeight="148"/>
+	<SubTexture name="A press0001" x="753" y="704" width="140" height="142" frameX="-3" frameY="-3" frameWidth="146" frameHeight="148"/>
+	<SubTexture name="A press0002" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0003" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0004" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0005" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0006" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0007" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0008" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0009" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0010" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0011" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0012" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0013" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0014" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0015" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0016" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0017" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0018" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A press0019" x="0" y="959" width="146" height="148"/>
+	<SubTexture name="A tail0000" x="170" y="959" width="50" height="65"/>
+	<SubTexture name="A0000" x="244" y="959" width="185" height="188"/>
+	<SubTexture name="A hold0000" x="453" y="959" width="50" height="44"/>
+	<SubTexture name="D0000" x="527" y="959" width="185" height="188"/>
+	<SubTexture name="D tail0000" x="736" y="959" width="50" height="65"/>
+	<SubTexture name="D hold0000" x="810" y="959" width="50" height="44"/>
+	<SubTexture name="D confirm0000" x="0" y="1171" width="223" height="226" frameX="-1" frameY="-3" frameWidth="226" frameHeight="230"/>
+	<SubTexture name="D confirm0001" x="247" y="1171" width="223" height="226" frameX="-1" frameY="-3" frameWidth="226" frameHeight="230"/>
+	<SubTexture name="D confirm0002" x="494" y="1171" width="226" height="230"/>
+	<SubTexture name="D confirm0003" x="494" y="1171" width="226" height="230"/>
+	<SubTexture name="D press0000" x="744" y="1171" width="139" height="142" frameX="-3" frameY="-3" frameWidth="146" frameHeight="148"/>
+	<SubTexture name="D press0001" x="744" y="1171" width="139" height="142" frameX="-3" frameY="-3" frameWidth="146" frameHeight="148"/>
+	<SubTexture name="D press0002" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0003" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0004" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0005" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0006" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0007" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0008" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0009" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0010" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0011" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0012" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0013" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0014" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0015" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0016" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0017" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0018" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="D press0019" x="0" y="1425" width="146" height="148"/>
+	<SubTexture name="C confirm0000" x="170" y="1425" width="234" height="231" frameX="0" frameY="0" frameWidth="234" frameHeight="233"/>
+	<SubTexture name="C confirm0001" x="428" y="1425" width="224" height="221" frameX="-5" frameY="-5" frameWidth="234" frameHeight="233"/>
+	<SubTexture name="C confirm0002" x="676" y="1425" width="230" height="228" frameX="-1" frameY="-5" frameWidth="234" frameHeight="233"/>
+	<SubTexture name="C confirm0003" x="676" y="1425" width="230" height="228" frameX="-1" frameY="-5" frameWidth="234" frameHeight="233"/>
+	<SubTexture name="C press0000" x="0" y="1680" width="142" height="139" frameX="-2" frameY="-4" frameWidth="147" frameHeight="146"/>
+	<SubTexture name="C press0001" x="0" y="1680" width="142" height="139" frameX="-2" frameY="-4" frameWidth="147" frameHeight="146"/>
+	<SubTexture name="C press0002" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0003" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0004" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0005" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0006" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0007" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0008" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0009" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0010" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0011" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0012" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0013" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0014" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0015" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0016" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0017" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0018" x="166" y="1680" width="147" height="146"/>
+	<SubTexture name="C press0019" x="166" y="1680" width="147" height="146"/>
+</TextureAtlas>

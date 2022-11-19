@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Mom Idle BLACK LINES0",
+	"image": "Menu_flchan",
+	"position": [
+		81,
+		70
+	],
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

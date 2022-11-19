@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Cross and Sickle",
+	"image": "menu_mfm",
+	"position": [
+		210,
+		70
+	],
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Detra Idle Outline",
+	"image": "Menu_Detra",
+	"position": [
+		146,
+		4
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}
