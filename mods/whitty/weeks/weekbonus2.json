@@ -1,0 +1,32 @@
+{
+	"storyName": "Just Like Old Times",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"category": "whitty",
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekbonus",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Underground",
+			"White",
+			[
+				26,
+				213,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Just Like Old Times"
+}

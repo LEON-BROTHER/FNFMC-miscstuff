@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bulldozer.png"><SubTexture name="bulldozer danceLeft0000" x="2431" y="917" width="1251" height="907" frameX="-400" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bulldozer danceLeft0001" x="2431" y="0" width="1253" height="917" frameX="-398" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bulldozer danceLeft0002" x="1196" y="0" width="1235" height="966" frameX="-421" frameY="-34" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bulldozer danceLeft0003" x="1208" y="1941" width="1220" height="737" frameX="-436" frameY="-263" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bulldozer danceRight0000" x="1185" y="990" width="1185" height="938" frameX="-460" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bulldozer danceRight0001" x="0" y="990" width="1185" height="951" frameX="-460" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bulldozer danceRight0002" x="0" y="0" width="1196" height="990" frameX="-460" frameY="-34" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bulldozer danceRight0003" x="0" y="1941" width="1208" height="749" frameX="-448" frameY="-263" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

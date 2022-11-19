@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ALFIE Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ALFIE Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ALFIE Pose Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-133
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ALFIE DOWN POSE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ALFIE Up Pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Universe",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "alfie",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		150,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

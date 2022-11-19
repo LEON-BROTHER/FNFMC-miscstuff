@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toadette.png"><SubTexture name="toadette singDOWN0000" x="1559" y="1509" width="358" height="421" frameX="-265" frameY="-473" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singDOWN0001" x="1965" y="0" width="362" height="420" frameX="-265" frameY="-474" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singDOWN0002" x="1201" y="1509" width="358" height="429" frameX="-266" frameY="-465" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singDOWN0003" x="1201" y="1509" width="358" height="429" frameX="-266" frameY="-465" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singLEFT0000" x="0" y="1509" width="401" height="448" frameX="-148" frameY="-467" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singLEFT0001" x="801" y="1509" width="400" height="447" frameX="-148" frameY="-468" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singLEFT0002" x="401" y="1509" width="400" height="448" frameX="-149" frameY="-466" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singLEFT0003" x="401" y="1509" width="400" height="448" frameX="-149" frameY="-466" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singRIGHT0000" x="732" y="0" width="445" height="495" frameX="-318" frameY="-405" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singRIGHT0001" x="433" y="545" width="432" height="493" frameX="-327" frameY="-407" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singRIGHT0002" x="0" y="545" width="433" height="495" frameX="-316" frameY="-404" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singRIGHT0003" x="0" y="545" width="433" height="495" frameX="-316" frameY="-404" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singUP0000" x="363" y="0" width="369" height="536" frameX="-243" frameY="-357" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singUP0001" x="0" y="0" width="363" height="545" frameX="-249" frameY="-348" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singUP0002" x="1177" y="0" width="400" height="491" frameX="-216" frameY="-402" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette singUP0003" x="1177" y="0" width="400" height="491" frameX="-216" frameY="-402" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceLEFT0000" x="1577" y="0" width="388" height="466" frameX="-243" frameY="-432" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceLEFT0001" x="1577" y="466" width="372" height="466" frameX="-259" frameY="-433" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceLEFT0002" x="1577" y="932" width="370" height="465" frameX="-264" frameY="-432" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceLEFT0003" x="1177" y="491" width="374" height="469" frameX="-265" frameY="-428" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceRIGHT0000" x="0" y="1040" width="375" height="469" frameX="-266" frameY="-428" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceRIGHT0001" x="375" y="1040" width="366" height="469" frameX="-274" frameY="-428" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceRIGHT0002" x="741" y="1040" width="365" height="469" frameX="-278" frameY="-428" frameWidth="960" frameHeight="960" />
+<SubTexture name="toadette danceRIGHT0003" x="1106" y="1040" width="374" height="469" frameX="-265" frameY="-428" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

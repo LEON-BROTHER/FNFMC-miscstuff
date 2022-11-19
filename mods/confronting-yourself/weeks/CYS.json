@@ -1,0 +1,24 @@
+{
+    "storyName": "Confronting yourself",
+    "hideFreeplay": false,
+    "weekBackground": "stage",
+    "category": "sonic-extra-stuff",
+    "weekBefore": "tutorial",
+    "startUnlocked": true,
+    "weekCharacters": [
+        "bf",
+        "gf"
+    ],
+    "songs": [
+        [
+            "Confronting Yourself",
+            "exe", [
+                115,
+                0,
+                20
+            ]
+        ]
+    ],
+    "hideStoryMode": true,
+    "weekName": "CYS"
+}

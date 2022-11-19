@@ -1,0 +1,32 @@
+{
+    "storyName": "Friday Night Funkin': Toadette Mix",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "hotel",
+    "category": "singles",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+        [
+            "Jump Jump Jump",
+            "toadette", [
+                235,
+                110,
+                166
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "toadette",
+        "bf",
+        "gf"
+    ],
+    "hiddenUntilUnlocked": false,
+    "weekName": "toadette"
+}

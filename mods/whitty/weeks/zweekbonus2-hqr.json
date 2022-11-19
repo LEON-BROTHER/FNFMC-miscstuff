@@ -1,0 +1,39 @@
+{
+    "storyName": "Just Like Old Times (High Quality)",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "category": "whitty",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "weekBefore": "zweekbonus1-hqr",
+    "startUnlocked": true,
+    "weekCharacters": [
+        "",
+        "bf",
+        "gf"
+    ],
+    "songs": [
+        [
+            "Underground (HQ)",
+            "White", [
+                26,
+                213,
+                235
+            ]
+        ],
+        [
+            "Underground (In-Game Mix)",
+            "White", [
+                26,
+                213,
+                235
+            ]
+        ]
+    ],
+    "hideStoryMode": false,
+    "weekName": "Just Like Old Times (High Quality)"
+}

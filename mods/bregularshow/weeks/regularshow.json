@@ -1,0 +1,32 @@
+{
+    "storyName": "going back to work",
+    "hideFreeplay": false,
+    "weekBackground": "black",
+    "difficulties": "Corrupted",
+    "weekBefore": "tutorial",
+    "category": "pibby",
+
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "songs": [
+        [
+            "overworked",
+            "mordecai", [
+                0,
+                100,
+                255
+            ]
+        ]
+    ],
+    "hideStoryMode": false,
+    "weekName": "Custom Week"
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="daisy.png"><SubTexture name="daisy danceLeft0000" x="1246" y="881" width="622" height="844" frameX="-171" frameY="-112" frameWidth="960" frameHeight="960" />
+<SubTexture name="daisy danceLeft0001" x="1868" y="0" width="622" height="836" frameX="-171" frameY="-120" frameWidth="960" frameHeight="960" />
+<SubTexture name="daisy danceLeft0002" x="0" y="881" width="622" height="862" frameX="-189" frameY="-94" frameWidth="960" frameHeight="960" />
+<SubTexture name="daisy danceLeft0003" x="622" y="0" width="622" height="878" frameX="-215" frameY="-79" frameWidth="960" frameHeight="960" />
+<SubTexture name="daisy danceRight0000" x="622" y="881" width="624" height="846" frameX="-265" frameY="-111" frameWidth="960" frameHeight="960" />
+<SubTexture name="daisy danceRight0001" x="2490" y="0" width="624" height="832" frameX="-264" frameY="-126" frameWidth="960" frameHeight="960" />
+<SubTexture name="daisy danceRight0002" x="1244" y="0" width="624" height="864" frameX="-236" frameY="-93" frameWidth="960" frameHeight="960" />
+<SubTexture name="daisy danceRight0003" x="0" y="0" width="622" height="881" frameX="-215" frameY="-79" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

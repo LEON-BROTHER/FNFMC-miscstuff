@@ -1,0 +1,47 @@
+{
+    "storyName": "Kawai Sprite",
+    "difficulties": "Erect",
+    "category": "normal-extra",
+    "hideFreeplay": false,
+    "weekBackground": "halloween",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "weekBefore": "tutorial",
+    "startUnlocked": true,
+    "weekCharacters": [
+        "spooky",
+        "bf",
+        "dad"
+    ],
+    "songs": [
+        [
+            "Bopeebo",
+            "dad", [
+                146,
+                113,
+                253
+            ]
+        ],
+        [
+            "Dad Battle",
+            "dad", [
+                146,
+                113,
+                253
+            ]
+        ],
+        [
+            "South",
+            "spooky", [
+                34,
+                51,
+                68
+            ]
+        ]
+    ],
+    "hideStoryMode": true,
+    "weekName": "official"
+}

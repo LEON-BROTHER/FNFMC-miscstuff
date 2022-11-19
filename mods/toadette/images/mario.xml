@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mario.png"><SubTexture name="mario idle0000" x="490" y="0" width="503" height="580" frameX="-118" frameY="-363" frameWidth="960" frameHeight="960" />
+<SubTexture name="mario idle0001" x="993" y="0" width="504" height="579" frameX="-117" frameY="-365" frameWidth="960" frameHeight="960" />
+<SubTexture name="mario idle0002" x="0" y="0" width="490" height="595" frameX="-132" frameY="-348" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

@@ -1,16 +1,2 @@
-2.3.4 - MORE BUGS AHHHHH
-- /!\ Fixed the problem with the character editor arrows colliding with other menus
-- Added voices button in the chart editor
-- Fixed pitching system in the chart editor
-- Crash Handler broke for some reason but semi-fixed it
-
-2.3.3 - FIXING SOME ISSUES (Based of 2.3.1 Source Code lol)
-- /!\ Fixed some menus not being able to load correctly
-- Fixed character scale problem
-- Fixed that toolbox mod's title and description are refreshing
-- Added lil feature to the character editors animation thing (for lazy people lmao)
-
-2.3.2 - FIXING DEEZ NUTS (NOT INCLUDED OR DOES NOT EXIST)
-- /!\ Fixed some menus not being able to load correctly
-
-
+1.7.9 - REVIVE OF THE MOD
+- Test for now

@@ -1,0 +1,40 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekbonus2",
+	"category": "whitty",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hungry",
+			"white",
+			[
+				26,
+				213,
+				235
+			]
+		],
+		[
+			"Faucet",
+			"4fuck",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

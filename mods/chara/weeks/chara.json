@@ -1,0 +1,31 @@
+{
+    "songs": [
+        [
+            "Megalo-Strike-Back",
+            "chara", [
+                229,
+                37,
+                35
+            ]
+        ]
+    ],
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "",
+    "category": "singles",
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "storyName": "chara funny lol",
+    "weekName": "chara",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "hideStoryMode": true,
+    "weekBefore": "tutorial",
+    "startUnlocked": true
+}

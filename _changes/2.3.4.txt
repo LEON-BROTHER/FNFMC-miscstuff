@@ -1,4 +1,0 @@
-YoshiCrafterEngine.exe
-manifest/default.json
-assets/music/gamejolt.ogg
-systools.ndll

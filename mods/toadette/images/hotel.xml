@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hotel.png"><SubTexture name="hotel idle0000" x="0" y="0" width="760" height="1785" frameX="-586" frameY="-42" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel idle0001" x="2279" y="0" width="761" height="1654" frameX="-589" frameY="-173" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel idle0002" x="1519" y="0" width="760" height="1727" frameX="-589" frameY="-100" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel idle0003" x="760" y="0" width="759" height="1775" frameX="-588" frameY="-52" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0000" x="3040" y="0" width="911" height="1305" frameX="-578" frameY="-282" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0001" x="3951" y="1087" width="1768" height="1070" frameX="-96" frameY="-769" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0002" x="0" y="2923" width="1870" height="892" frameX="-34" frameY="-948" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0003" x="3951" y="0" width="1868" height="1087" frameX="-41" frameY="-743" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0004" x="0" y="1785" width="1864" height="1138" frameX="-10" frameY="-692" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0005" x="1864" y="1785" width="1126" height="1134" frameX="-485" frameY="-692" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0006" x="1864" y="1785" width="1126" height="1134" frameX="-485" frameY="-692" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel impact0007" x="1864" y="1785" width="1126" height="1134" frameX="-485" frameY="-692" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="hotel falling0000" x="3040" y="0" width="911" height="1305" frameX="-578" frameY="-282" frameWidth="1920" frameHeight="1920" />
+</TextureAtlas>

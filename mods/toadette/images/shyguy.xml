@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shyguy.png"><SubTexture name="shyguy danceRight0000" x="0" y="0" width="285" height="456" frameX="-306" frameY="-384" frameWidth="960" frameHeight="960" />
+<SubTexture name="shyguy danceRight0001" x="285" y="0" width="284" height="456" frameX="-306" frameY="-379" frameWidth="960" frameHeight="960" />
+<SubTexture name="shyguy danceRight0002" x="0" y="456" width="286" height="453" frameX="-303" frameY="-412" frameWidth="960" frameHeight="960" />
+<SubTexture name="shyguy danceRight0003" x="572" y="456" width="286" height="446" frameX="-309" frameY="-450" frameWidth="960" frameHeight="960" />
+<SubTexture name="shyguy danceLeft0000" x="569" y="0" width="286" height="456" frameX="-304" frameY="-384" frameWidth="960" frameHeight="960" />
+<SubTexture name="shyguy danceLeft0001" x="855" y="0" width="285" height="456" frameX="-304" frameY="-379" frameWidth="960" frameHeight="960" />
+<SubTexture name="shyguy danceLeft0002" x="286" y="456" width="286" height="453" frameX="-301" frameY="-412" frameWidth="960" frameHeight="960" />
+<SubTexture name="shyguy danceLeft0003" x="1140" y="0" width="286" height="446" frameX="-307" frameY="-450" frameWidth="960" frameHeight="960" />
+</TextureAtlas>
