@@ -603,7 +603,6 @@ assets/data/animal/animal-easy.json
 assets/data/animal/animal-hard.json
 assets/data/animal/animal.json
 assets/data/animal/credits.json
-assets/data/Anthropophobia/0.offset
 assets/data/Anthropophobia/Anthropophobia-easy.json
 assets/data/Anthropophobia/Anthropophobia-hard.json
 assets/data/Anthropophobia/Anthropophobia.json
@@ -812,7 +811,6 @@ assets/data/covetous/covetous-hard.json
 assets/data/covetous/covetous.json
 assets/data/covetous/covetousDialogue.txt
 assets/data/covetous/credits.json
-assets/data/cringe/0.offset
 assets/data/cringe/credits.json
 assets/data/cringe/cringe-easy.json
 assets/data/cringe/cringe-hard.json
@@ -827,7 +825,6 @@ assets/data/cycles/credits.json
 assets/data/cycles/cycles-easy.json
 assets/data/cycles/cycles-hard.json
 assets/data/cycles/cycles.json
-assets/data/d.i.e/0.offset
 assets/data/d.i.e/credits.json
 assets/data/d.i.e/d.i.e-easy.json
 assets/data/d.i.e/d.i.e-hard.json
@@ -906,7 +903,6 @@ assets/data/dreams-of-roses/dreams-of-roses-hard.json
 assets/data/dreams-of-roses/dreams-of-roses.json
 assets/data/dreams-of-roses/dreams-of-rosesDialogue.txt
 assets/data/dreams-of-roses/dreams-of-rosesEndDialogue.txt
-assets/data/drowning/0.offset
 assets/data/drowning/credits.json
 assets/data/drowning/dialogue.txt
 assets/data/drowning/drowning-easy.json
@@ -1121,7 +1117,6 @@ assets/data/hallucination/hallucination-hard.json
 assets/data/hallucination/hallucination.json
 assets/data/hallucination/lyrics.lyric
 assets/data/hallucination/modchart.lua
-assets/data/hallucinations/0.offset
 assets/data/hallucinations/credits.json
 assets/data/hallucinations/hallucinations-easy.json
 assets/data/hallucinations/hallucinations-hard.json
@@ -1242,7 +1237,6 @@ assets/data/kaio-ken/events.json
 assets/data/kaio-ken/kaio-ken-4k.json
 assets/data/kaio-ken/kaio-ken-shaggy-canon.json
 assets/data/kaio-ken/kaio-ken-shaggy-easy.json
-assets/data/last-hope/0.offset
 assets/data/last-hope/credits.json
 assets/data/last-hope/last-hope-easy.json
 assets/data/last-hope/last-hope-hard.json
@@ -1447,7 +1441,6 @@ assets/data/parish/oldcharts/parish-easy.json
 assets/data/parish/oldcharts/parish-hard-alpha.json
 assets/data/parish/oldcharts/parish-hard.json
 assets/data/parish/oldcharts/parish.json
-assets/data/partnership/0.offset
 assets/data/partnership/credits.json
 assets/data/partnership/dialogue.txt
 assets/data/partnership/modchart.lua
@@ -1566,7 +1559,6 @@ assets/data/psychoneurotic/psychoneurotic_EXPERT.json
 assets/data/psychoneurotic/old_chart/psychoneurotic-easy.json
 assets/data/psychoneurotic/old_chart/psychoneurotic-hard.json
 assets/data/psychoneurotic/old_chart/psychoneurotic.json
-assets/data/psychotic-breakdown/0.offset
 assets/data/psychotic-breakdown/credits.json
 assets/data/psychotic-breakdown/dialogue.txt
 assets/data/psychotic-breakdown/modchart.lua
@@ -1601,7 +1593,6 @@ assets/data/reactor/reactor-easy.json
 assets/data/reactor/reactor-hard.json
 assets/data/reactor/reactor.json
 assets/data/reactor/reactor.txt
-assets/data/reality-check/0.offset
 assets/data/reality-check/credits.json
 assets/data/reality-check/modchart.lua
 assets/data/reality-check/reality-check-easy.json
@@ -1612,7 +1603,6 @@ assets/data/reconciliation/IntroDialogue.txt
 assets/data/reconciliation/reconciliation-easy.json
 assets/data/reconciliation/reconciliation-hard.json
 assets/data/reconciliation/reconciliation.json
-assets/data/red-megalovania/0.offset
 assets/data/red-megalovania/credits.json
 assets/data/red-megalovania/dialogue.txt
 assets/data/red-megalovania/modchart.lua
@@ -1946,7 +1936,6 @@ assets/data/terminus/terminus-hard.json
 assets/data/terminus/terminus.json
 assets/data/terminus/terminusDialogue.txt
 assets/data/test/test.json
-assets/data/the-murderer/0.offset
 assets/data/the-murderer/credits.json
 assets/data/the-murderer/dialogue.txt
 assets/data/the-murderer/modchart.lua
@@ -2122,7 +2111,6 @@ assets/data/worship/oldcharts/worship-easy.json
 assets/data/worship/oldcharts/worship-hard-alpha.json
 assets/data/worship/oldcharts/worship-hard.json
 assets/data/worship/oldcharts/worship.json
-assets/data/wounded-shooting/0.offset
 assets/data/wounded-shooting/credits.json
 assets/data/wounded-shooting/wounded-shooting-easy.json
 assets/data/wounded-shooting/wounded-shooting-hard.json
@@ -7898,7 +7886,6 @@ mods/animemod/custom_events/CameraControl.lua
 mods/animemod/custom_events/CameraControl.txt
 mods/animemod/custom_events/canHey.txt
 mods/animemod/custom_events/ENTER.txt
-mods/animemod/custom_events/Heyo.txt
 mods/animemod/custom_events/karaokelyrics.lua
 mods/animemod/custom_events/karaokelyrics.txt
 mods/animemod/custom_events/Object Play Animation.lua
@@ -7907,10 +7894,8 @@ mods/animemod/custom_events/readme.txt
 mods/animemod/custom_events/Set Cam Zoom.lua
 mods/animemod/custom_events/Set Cam Zoom.txt
 mods/animemod/custom_notetypes/Alt Alt Anim.lua
-mods/animemod/custom_notetypes/Note najimi.lua
 mods/animemod/custom_notetypes/readme.txt
 mods/animemod/data/cinematic.lua
-mods/animemod/data/credits.txt
 mods/animemod/data/readme.txt
 mods/animemod/data/silent-note/events.json
 mods/animemod/data/silent-note/silent-note-normal.json
@@ -9257,7 +9242,6 @@ mods/heathers/custom_notetypes/Chorus.lua
 mods/heathers/custom_notetypes/Note heatherd.lua
 mods/heathers/custom_notetypes/Note heatherm.lua
 mods/heathers/custom_notetypes/readme.txt
-mods/heathers/data/credits.txt
 mods/heathers/data/readme.txt
 mods/heathers/data/candy/candy-easy.json
 mods/heathers/data/candy/candy-hard.json
