@@ -7959,7 +7959,6 @@ mods/animemod/images/suspai/drawings.png
 mods/animemod/images/suspai/drawings.xml
 mods/animemod/images/suspai/overlay.png
 mods/animemod/images/suspai/pencil.png
-mods/animemod/music/music-goes-here.txt
 mods/animemod/shaders/bloom.frag
 mods/animemod/shaders/chromaticAbberation.frag
 mods/animemod/songs/readme.txt
@@ -9270,7 +9269,6 @@ mods/heathers/images/menubackgrounds/readme.txt
 mods/heathers/images/menucharacters/readme.txt
 mods/heathers/images/storymenu/heathers.png
 mods/heathers/images/storymenu/readme.txt
-mods/heathers/music/music-goes-here.txt
 mods/heathers/shaders/reflection.lua
 mods/heathers/songs/readme.txt
 mods/heathers/songs/candy/Inst.ogg
@@ -10009,7 +10007,6 @@ mods/Ski Mod/data/no-memes/dialogue.json
 mods/Ski Mod/data/no-memes/events.json
 mods/Ski Mod/data/no-memes/no-memes.json
 mods/Ski Mod/data/no-memes/script.lua
-mods/Ski Mod/data/no-memes/This song will get dialogue next update, but you can explore if youd like.txt
 mods/Ski Mod/data/sporty-ski/credits.json
 mods/Ski Mod/data/sporty-ski/dialogue.json
 mods/Ski Mod/data/sporty-ski/events.json
@@ -10365,7 +10362,6 @@ mods/Twinsomnia/images/gfDanceTitle.png
 mods/Twinsomnia/images/gfDanceTitle.xml
 mods/Twinsomnia/images/go.png
 mods/Twinsomnia/images/logoBumpin.png
-mods/Twinsomnia/images/New Text Document.txt
 mods/Twinsomnia/images/noteSplashes.png
 mods/Twinsomnia/images/noteSplashes.xml
 mods/Twinsomnia/images/NOTE_assets.png

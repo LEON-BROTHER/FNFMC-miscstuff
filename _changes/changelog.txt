@@ -1,4 +1,4 @@
-1.7.9 - REVIVE OF THE MOD
+1.7.9 - REVIVE OF THE MOD - Yo do mind this thing is not finished like credit and stuff are still missing but im lazy lol so get rekt.
 —Mods—
 Added Too Fest (3.0 version)
 Added Heather Mod
@@ -12,5 +12,5 @@ Fixed Neo Week 5 Pos
 Fixed Twinsomnia
 Fixed even more
 —Misc Stuff—
-Added ingame patching stuff
+Added ingame patching stuff - haha thx yoshicrafter engine for the code lol
 Added even more idk it anymore tho.
