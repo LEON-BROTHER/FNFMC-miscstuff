@@ -1,3 +1,7 @@
+1.7.9.1 - I'm stupid damit
+Fixed Twinsomnia
+Fixed Covers Category
+
 1.7.9 - REVIVE OF THE MOD - Yo do mind this thing is not finished like credit and stuff are still missing but im lazy lol so get rekt.
 —Mods—
 Added Too Fest (3.0 version)
@@ -9,7 +13,6 @@ Added Detra
 Added Doors Single
 —Bugs—
 Fixed Neo Week 5 Pos
-Fixed Twinsomnia
 Fixed even more
 —Misc Stuff—
 Added ingame patching stuff - haha thx yoshicrafter engine for the code lol

@@ -4,6 +4,7 @@
     "hideFreeplay": false,
     "weekBackground": "",
     "weekBefore": "",
+    "category": "cover",
     "freeplayColor": [
         146,
         113,

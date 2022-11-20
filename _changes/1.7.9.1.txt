@@ -1,0 +1,3 @@
+mods/Twinsomnia/weeks/weekbg.json
+mods/covers/weeks/ShaggyVsClassicMods.json
+FNFMCPsychPort.exe
