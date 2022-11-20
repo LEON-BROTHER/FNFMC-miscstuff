@@ -216,7 +216,6 @@ function onBeatHit()
 end
 
 function opponentNoteHit()
-    if ()
     if getProperty('health') >= 0.016 then
         setProperty('health', getProperty('health') - 0.016)
     end
