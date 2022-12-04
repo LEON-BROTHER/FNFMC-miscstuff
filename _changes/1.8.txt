@@ -51,7 +51,6 @@ assets/images/svc/icons/songslower.png
 assets/images/svc/icons/spell.png
 assets/images/svc/icons/spin.png
 assets/images/svc/icons/wiggle.png
-assets/images/svc/pixelUI
 assets/images/svc/pixelUI/shield.png
 assets/sounds/bang.ogg
 assets/sounds/svc/airhorn.ogg
