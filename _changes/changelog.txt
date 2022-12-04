@@ -1,3 +1,11 @@
+1.8 - Streamer Vs Chat goes brrrrr
+Fixed Stress-Duet gfVersion
+Fixed some minor bugs
+Added Streamer Vs Chat
+Added Streamer Vs Char Option in Misc
+Added Options in Pause Menu
+Added Twitch and Youtube Streamer Vs Chat Support
+
 1.7.9.3 - Fixed some online stuff and improved update system
 
 1.7.9.2 - Fixed Credits and shit
@@ -6,18 +14,3 @@
 Fixed Twinsomnia
 Fixed Covers Category
 
-1.7.9 - REVIVE OF THE MOD - Yo do mind this thing is not finished like credit and stuff are still missing but im lazy lol so get rekt.
-—Mods—
-Added Too Fest (3.0 version)
-Added Heather Mod
-Added Hazy River
-Added Dusttale - Story Mode Icons are missing for now I just wanted to have this update done so people can play it normally again :D
-Added Unlabeled Anime Mod
-Added Detra
-Added Doors Single
-—Bugs—
-Fixed Neo Week 5 Pos
-Fixed even more
-—Misc Stuff—
-Added ingame patching stuff - haha thx yoshicrafter engine for the code lol
-Added even more idk it anymore tho.

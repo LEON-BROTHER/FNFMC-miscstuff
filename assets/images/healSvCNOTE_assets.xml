@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healSvCNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="B" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="C" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="D" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="E" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="F" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="G" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="H" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="I" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="J" x="0" y="0" width="154" height="154"/>
+</TextureAtlas>

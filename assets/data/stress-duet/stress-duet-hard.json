@@ -3,7 +3,7 @@
         "song": "Stress-Duet",
         "mania": 3,
         "stage": "tank",
-        "player3": "picospeaker",
+        "player3": "pico-speaker",
         "bpm": 178,
         "needsVoices": true,
         "player1": "bf-holding-gf",
