@@ -11,8 +11,11 @@
 !rainbow
 !blur
 !lag
+!cover
 !mixup
 !ghost
+!wiggle
+!troll
 !movewindow
 !flashbang
 !nostrum
@@ -34,3 +37,5 @@
 !popup
 !glitch
 !pendulum
+!markov
+!death
